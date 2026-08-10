@@ -50,10 +50,15 @@ design a non-trivial system from scratch, not just wire up CRUD.
 
 ### 📊
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scoreJIm&show_icons=true&theme=default&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoreJIm&layout=compact&theme=default" />
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-1.0-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ECS%20%7C%20S3%20%7C%20RDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-27-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-scripting%20%26%20tooling-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### 📬
