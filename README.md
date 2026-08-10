@@ -9,7 +9,7 @@ No fluff, no buzzword bingo. Just stuff that works.
 
 ### 🧠 What I Work With
 
-**Backend** — Java 21 · Spring Boot 3.x · Spring Security · JPA / MyBatis · JWT · WebSocket
+**Backend** — Java 8/17/21 · Spring Boot 3.x · Spring Security · JPA / MyBatis · JWT · WebSocket
 
 **GenAI** — Spring AI · LLM Integration · Agent Architecture · RAG · Tool Use · Prompt Engineering
 
