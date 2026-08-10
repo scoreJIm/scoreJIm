@@ -9,7 +9,7 @@ No fluff, no buzzword bingo. Just stuff that works.
 
 ### 🧠 What I Work With
 
-- **Backend & Microservices** — Java 21 · Spring Boot 3.x · Spring Cloud (OpenFeign, Netflix, Config) · gRPC · Eureka / Nacos · Spring Security · OAuth2 · JPA / MyBatis · JWT · WebSocket
+- **Backend & Microservices** — Java 8/17/21 · Spring Boot 3.x · Spring Cloud (OpenFeign, Netflix, Config) · gRPC · Eureka / Nacos · Spring Security · OAuth2 · JPA / MyBatis · JWT · WebSocket
 
 - **GenAI** — Spring AI · LLM Integration · Agent Architecture · RAG · Tool Use · Prompt Engineering
 
@@ -58,7 +58,7 @@ implementation. Search, book, pay, review, real-time chat: the complete marketpl
 ### 📊
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-8%2F17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Cloud-OpenFeign%20%7C%20Netflix-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white" />
