@@ -35,11 +35,11 @@ to explore what production AI agents actually need beyond a chat wrapper.
 
 ### 🎸 NEOPick — Guitar Lesson Marketplace
 
-> *Two-sided platform connecting students with guitar teachers. Designed end-to-end,
-> planned for production launch.*
+> *Two-sided platform connecting students with guitar teachers. Product designed from scratch,
+> engineered for production.*
 
-A full booking loop — search, book, pay, review, real-time chat. Built to prove I can
-design a non-trivial system from scratch, not just wire up CRUD.
+A true 0-to-1 project — I did the product design, domain modeling, and full-stack
+implementation. Search, book, pay, review, real-time chat: the complete marketplace loop.
 
 **Architecture:** Hexagonal (Ports & Adapters) · Domain-Driven Design · Booking State Machine
 **Tech:** Java 21 · Spring Boot 3.3 · PostgreSQL · Redis · WebSocket · JWT · AWS · Docker · Flyway
